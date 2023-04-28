@@ -11,7 +11,7 @@
 - 팀 회고
 
 ## 🧑‍💻 팀원 소개
-| ![etialmoon_image](./image/etialmoon_image.jpeg) | ![mary_image](./image/mary_image.jpeg) |
+| <img src="./image/etialmoon_image.jpeg" width="200" height="200"/> | <img src="./image/mary_image.jpeg" width="200" height="250"/> |
 | -------- | -------- |
 | **Etialmoon**| **Mary** |
 
